@@ -65,6 +65,7 @@ body {
   font-family: var(--font-family);
   color: var(--black);
   font-size: 16px;
+  user-select: none;
 }
 @media (max-width: 991px) {
   body {
