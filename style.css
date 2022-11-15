@@ -6,8 +6,8 @@
   --font-family: "Inter", sans-serif;
   --primary: #00d4d7 !important;
   /* #FF6F61  */
-  --primary-dark: #1c3ab6;
-  --primary-light: #e2f1ff;
+  --primary-dark: #31395a;
+  --primary-light: #c4501a;
   --accent: #00d4d7;
   --accent-dark: #00bac1;
   --accent-light: #dff9f8;
@@ -20,7 +20,7 @@
   --info: #15b2d5;
   --info-dark: #0f8ca8;
   --info-light: #e0f5fa;
-  --caution: #dbbb25;
+  --caution: #dbbb25; 
   --caution-dark: #d58f15;
   --caution-light: #fbf9e4;
   --error: #e6185e;
